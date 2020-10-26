@@ -1,6 +1,8 @@
 
 # WBikes
 
+[App Store Link](https://apps.apple.com/us/app/sharelink-pro/id1537276318)
+
 **Resumen:**
 
 This application was created as a final project for Udacity iOS Developer Nanodegree
@@ -47,7 +49,7 @@ The application uses CoreData to store Cities and their stations. All API calls 
 
 **Citybikes**
 
-To date [Citybikes](/https://citybik.es/) supports more than 650 cities and the Citybikes API is the most widely used dataset for building bike sharing transportation projects.
+To date [Citybikes](https://citybik.es) supports more than 650 cities and the Citybikes API is the most widely used dataset for building bike sharing transportation projects.
 
 ## License
 
