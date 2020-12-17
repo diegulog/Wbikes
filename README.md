@@ -30,7 +30,7 @@ The app has five view control scenes:
 - **InfoController**: Shows relevant information of the application and allows the user to change cities.
 
 
-The application uses CoreData to store Cities and their stations. All API calls are executed in seconds and updated data is stored in each query using CoreData.
+The application uses CoreData to store Cities and their stations. All API calls are executed in background and updated data is stored in each query using CoreData.
 
 
 **Testing The App:**
