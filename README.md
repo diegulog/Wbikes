@@ -1,12 +1,12 @@
 
+
 # WBikes
 
 [App Store Link](https://apps.apple.com/us/app/sharelink-pro/id1537276318)
 
 **Resumen:**
 
-This application was created as a final project for Udacity iOS Developer Nanodegree
-The application allows you to see the bicycle stations and their availability in more than 650 cities.
+Final project for "Udacity iOS Developer Nanodegree". The app allows you to view bike stations and their availability in more than 650 cities.
 
 ![MapController](https://raw.githubusercontent.com/diegulog/Wbikes/main/Screenshots/map-controller.png)
 ![SelectCityController](https://raw.githubusercontent.com/diegulog/Wbikes/main/Screenshots/select-city-controller.png)
@@ -53,7 +53,7 @@ To date [Citybikes](https://citybik.es) supports more than 650 cities and the Ci
 
 ## License
 
-    Copyright 2020 Diego Gl
+    Copyright 2020 Diego Guaña
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
