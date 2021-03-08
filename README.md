@@ -2,7 +2,7 @@
 
 # WBikes
 
-[App Store Link](https://apps.apple.com/us/app/sharelink-pro/id1537276318)
+[![Install](Screenshots/app_store_Badge.svg)](https://apps.apple.com/us/app/sharelink-pro/id1537276318)
 
 **Resumen:**
 
