@@ -4,8 +4,6 @@
 
 [![Install](Screenshots/app_store_Badge.svg)](https://apps.apple.com/us/app/sharelink-pro/id1537276318)
 
-**Resumen:**
-
 Final project for "Udacity iOS Developer Nanodegree". The app allows you to view bike stations and their availability in more than 650 cities.
 
 ![MapController](https://raw.githubusercontent.com/diegulog/Wbikes/main/Screenshots/map-controller.png)
